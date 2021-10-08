@@ -1,3 +1,3 @@
 # autoRunISCE
 使用isce软件的stackSentinel.py生成run_files文件的一系列命令，该脚本可以实现这一系列命令的自动运行。
-#适用于isce2.3版本生成的run_files文件的自动运行,2.5需要自行修改下编号
+该脚本适用于isce2.3版本生成的run_files文件的自动运行,isce2.5需要自行修改下关于文件名称部分代码
